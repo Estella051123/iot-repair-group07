@@ -4,9 +4,9 @@
 
 成员A GitHub用户名：Estella051123（组长）
 
-成员B GitHub用户名：待填写
+成员B GitHub用户名：zq123641
 
-成员C GitHub用户名：待填写
+成员C GitHub用户名：aaaslya
 
 本组选定语言：**Java**（只完成 `src/java` 一套；`src/python` 保留为起始示例，不作为本组提交内容）
 
